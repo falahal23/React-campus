@@ -1,6 +1,5 @@
 import { createRoot } from "react-dom/client";
 import "./assets/tailwind.css";
-
 import Sidebar from "./layouts/Sidebar";
 import Header from "./layouts/Header";
 import Dashboard from "./pages/Dashboard";
