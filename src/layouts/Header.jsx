@@ -83,7 +83,7 @@ export default function Header() {
                             Hello, <b>Falahal Nabil</b>
                         </span>
                         <img
-                            src="/image/foto.png"
+                            src="/images/foto.png"
                             className="w-10 h-10 rounded-full object-cover"
                         />
                     </div>
